@@ -615,7 +615,7 @@
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
     "CommandAlias": "",
-    "useCommandCooldown": true,
+    "useCommandCooldown": false,
     "MaxUsesPerCooldownPeriod": 2,
     "Label": "weather",
     "CommandDescription": "Usage: !weather <type>. Types: rain, snow, fog, thunderstorm, clear, etc.",
