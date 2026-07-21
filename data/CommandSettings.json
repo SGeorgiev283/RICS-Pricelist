@@ -747,7 +747,7 @@
     "SupportsCost": false,
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
-    "CommandAlias": "",
+    "CommandAlias": "commandstest",
     "useCommandCooldown": true,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "all commands",

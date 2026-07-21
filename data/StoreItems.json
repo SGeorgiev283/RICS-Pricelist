@@ -1752,7 +1752,7 @@
       "Mod": "Core",
       "BasePrice": 1,
       "Category": "Foods",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Chocolate": {
@@ -5272,7 +5272,7 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
-      "IsEquippable": false,
+      "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Core",
       "BasePrice": 10,
@@ -8037,7 +8037,7 @@
       "Mod": "Biotech",
       "BasePrice": 1,
       "Category": "Foods",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "HemogenPack": {
