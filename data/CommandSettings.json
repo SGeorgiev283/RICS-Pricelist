@@ -608,15 +608,15 @@
     "CustomData": ""
   },
   "weather": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
     "CommandAlias": "",
-    "useCommandCooldown": false,
-    "MaxUsesPerCooldownPeriod": 0,
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 2,
     "Label": "weather",
     "CommandDescription": "Usage: !weather <type>. Types: rain, snow, fog, thunderstorm, clear, etc.",
     "AllowedRaidTypes": [],
