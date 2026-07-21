@@ -6,9 +6,9 @@
     "BaseCost": 100,
     "KarmaType": "Good",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Fog": {
@@ -18,9 +18,9 @@
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Rain": {
@@ -30,9 +30,9 @@
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DryThunderstorm": {
@@ -42,9 +42,9 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RainyThunderstorm": {
@@ -54,9 +54,9 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FoggyRain": {
@@ -66,9 +66,9 @@
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowHard": {
@@ -78,9 +78,9 @@
     "BaseCost": 200,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowGentle": {
@@ -90,9 +90,9 @@
     "BaseCost": 200,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BloodRain": {
@@ -102,9 +102,9 @@
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Windy": {
@@ -114,9 +114,9 @@
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ToxRain": {
@@ -126,9 +126,9 @@
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Sandstorm": {
@@ -138,9 +138,9 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BlindFog": {
@@ -150,9 +150,9 @@
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Overcast": {
@@ -162,9 +162,9 @@
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Blizzard": {
@@ -174,9 +174,9 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TorrentialRain": {
@@ -186,9 +186,9 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_Whiteout": {
@@ -200,7 +200,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_Swelter": {
@@ -212,7 +212,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_Inferno": {
@@ -224,7 +224,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_PsychicRain": {
@@ -236,7 +236,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_LongNight": {
@@ -248,7 +248,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   }
 }

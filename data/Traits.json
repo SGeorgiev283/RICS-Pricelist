@@ -6,8 +6,8 @@
     "Description": "{PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -15,7 +15,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Bloodlust_0": {
@@ -25,8 +25,8 @@
     "Description": "{PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -34,7 +34,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Kind_0": {
@@ -44,8 +44,8 @@
     "Description": "{PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -53,7 +53,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Psychopath_0": {
@@ -63,8 +63,8 @@
     "Description": "{PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -72,7 +72,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Cannibal_0": {
@@ -82,8 +82,8 @@
     "Description": "{PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -91,7 +91,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Abrasive_0": {
@@ -101,8 +101,8 @@
     "Description": "{PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -110,7 +110,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TooSmart_0": {
@@ -123,8 +123,8 @@
       "+0.12 Mental break threshold"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 449,
     "RemovePrice": 748,
     "BypassLimit": false,
@@ -132,7 +132,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Brawler_0": {
@@ -144,8 +144,8 @@
       "+4 Melee hit chance"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 1650,
     "RemovePrice": 2750,
     "BypassLimit": false,
@@ -153,7 +153,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Masochist_0": {
@@ -163,8 +163,8 @@
     "Description": "For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -172,7 +172,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NightOwl_0": {
@@ -182,8 +182,8 @@
     "Description": "{PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -191,7 +191,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Greedy_0": {
@@ -201,8 +201,8 @@
     "Description": "{PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -210,7 +210,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Jealous_0": {
@@ -220,8 +220,8 @@
     "Description": "For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -229,7 +229,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Ascetic_0": {
@@ -239,8 +239,8 @@
     "Description": "{PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -248,7 +248,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Gay_0": {
@@ -258,8 +258,8 @@
     "Description": "{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -267,7 +267,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Bisexual_0": {
@@ -277,8 +277,8 @@
     "Description": "{PAWN_nameDef} is romantically attracted to both men and women.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -286,7 +286,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Asexual_0": {
@@ -296,8 +296,8 @@
     "Description": "{PAWN_nameDef} has no sexual attraction to anyone at all.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -305,7 +305,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AnnoyingVoice_0": {
@@ -315,8 +315,8 @@
     "Description": "{PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 45,
     "RemovePrice": 375,
     "BypassLimit": false,
@@ -324,7 +324,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "CreepyBreathing_0": {
@@ -334,8 +334,8 @@
     "Description": "{PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 45,
     "RemovePrice": 375,
     "BypassLimit": false,
@@ -343,7 +343,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Pyromaniac_0": {
@@ -353,8 +353,8 @@
     "Description": "{PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -362,7 +362,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Wimp_0": {
@@ -374,8 +374,8 @@
       "-0.5 Pain shock threshold"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 78,
     "RemovePrice": 656,
     "BypassLimit": false,
@@ -383,7 +383,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nimble_0": {
@@ -395,8 +395,8 @@
       "+15 Melee dodge chance"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 2400,
     "RemovePrice": 4000,
     "BypassLimit": false,
@@ -404,7 +404,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FastLearner_0": {
@@ -416,8 +416,8 @@
       "+75.0% Global learning factor"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 431,
     "RemovePrice": 718,
     "BypassLimit": false,
@@ -425,7 +425,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SlowLearner_0": {
@@ -437,8 +437,8 @@
       "-75.0% Global learning factor"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 129,
     "RemovePrice": 1078,
     "BypassLimit": false,
@@ -446,7 +446,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Undergrounder_0": {
@@ -456,8 +456,8 @@
     "Description": "{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever and is not bothered by darkness. However, {PAWN_nameDef} will be unhappy while outdoors.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -465,7 +465,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Transhumanist_0": {
@@ -475,8 +475,8 @@
     "Description": "{PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced with artificial body parts or xenogenetics.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -484,7 +484,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BodyPurist_0": {
@@ -494,8 +494,8 @@
     "Description": "{PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts and xenogenes are unethical and disgusting.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -503,7 +503,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DislikesMen_0": {
@@ -513,8 +513,8 @@
     "Description": "{PAWN_nameDef} really dislikes and distrusts men.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -522,7 +522,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DislikesWomen_0": {
@@ -532,8 +532,8 @@
     "Description": "{PAWN_nameDef} really dislikes and distrusts women.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -541,7 +541,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "GreatMemory_0": {
@@ -551,8 +551,8 @@
     "Description": "{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -560,7 +560,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Tough_0": {
@@ -570,8 +570,8 @@
     "Description": "{PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -579,7 +579,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TorturedArtist_0": {
@@ -589,8 +589,8 @@
     "Description": "{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -598,7 +598,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Gourmand_0": {
@@ -608,8 +608,8 @@
     "Description": "{PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -617,7 +617,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "QuickSleeper_0": {
@@ -629,8 +629,8 @@
       "+0.5 Rest rate multiplier"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 262,
     "RemovePrice": 437,
     "BypassLimit": false,
@@ -638,7 +638,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SpeedOffset_-1": {
@@ -650,8 +650,8 @@
       "-0.2 Move speed"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 81,
     "RemovePrice": 674,
     "BypassLimit": false,
@@ -659,7 +659,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SpeedOffset_1": {
@@ -671,8 +671,8 @@
       "+0.2 Move speed"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 269,
     "RemovePrice": 449,
     "BypassLimit": false,
@@ -680,7 +680,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SpeedOffset_2": {
@@ -692,8 +692,8 @@
       "+0.4 Move speed"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 389,
     "RemovePrice": 649,
     "BypassLimit": false,
@@ -701,7 +701,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DrugDesire_2": {
@@ -711,8 +711,8 @@
     "Description": "[PAWN_name] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 240,
     "RemovePrice": 400,
     "BypassLimit": false,
@@ -720,7 +720,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DrugDesire_1": {
@@ -730,8 +730,8 @@
     "Description": "[PAWN_name] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 194,
     "RemovePrice": 324,
     "BypassLimit": false,
@@ -739,7 +739,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DrugDesire_-1": {
@@ -749,8 +749,8 @@
     "Description": "[PAWN_name] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 194,
     "RemovePrice": 324,
     "BypassLimit": false,
@@ -758,7 +758,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NaturalMood_2": {
@@ -768,8 +768,8 @@
     "Description": "[PAWN_name] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 240,
     "RemovePrice": 400,
     "BypassLimit": false,
@@ -777,7 +777,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NaturalMood_1": {
@@ -787,8 +787,8 @@
     "Description": "[PAWN_name] is naturally optimistic about life. It's hard to get [PAWN_objective] down.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 194,
     "RemovePrice": 324,
     "BypassLimit": false,
@@ -796,7 +796,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NaturalMood_-1": {
@@ -806,8 +806,8 @@
     "Description": "[PAWN_name] tends to look on the bad side of life.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 194,
     "RemovePrice": 324,
     "BypassLimit": false,
@@ -815,7 +815,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NaturalMood_-2": {
@@ -825,8 +825,8 @@
     "Description": "[PAWN_name] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 240,
     "RemovePrice": 400,
     "BypassLimit": false,
@@ -834,7 +834,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nerves_2": {
@@ -846,8 +846,8 @@
       "-0.18 Mental break threshold"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 80,
     "RemovePrice": 667,
     "BypassLimit": false,
@@ -855,7 +855,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nerves_1": {
@@ -867,8 +867,8 @@
       "-0.09 Mental break threshold"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 62,
     "RemovePrice": 521,
     "BypassLimit": false,
@@ -876,7 +876,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nerves_-1": {
@@ -888,8 +888,8 @@
       "+0.08 Mental break threshold"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 207,
     "RemovePrice": 345,
     "BypassLimit": false,
@@ -897,7 +897,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nerves_-2": {
@@ -909,8 +909,8 @@
       "+0.15 Mental break threshold"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 262,
     "RemovePrice": 437,
     "BypassLimit": false,
@@ -918,7 +918,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Neurotic_1": {
@@ -931,8 +931,8 @@
       "+0.08 Mental break threshold"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 282,
     "RemovePrice": 470,
     "BypassLimit": false,
@@ -940,7 +940,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Neurotic_2": {
@@ -953,8 +953,8 @@
       "+0.14 Mental break threshold"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 411,
     "RemovePrice": 685,
     "BypassLimit": false,
@@ -962,7 +962,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Industriousness_2": {
@@ -974,8 +974,8 @@
       "+0.35 Global work speed"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 371,
     "RemovePrice": 618,
     "BypassLimit": false,
@@ -983,7 +983,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Industriousness_1": {
@@ -995,8 +995,8 @@
       "+0.2 Global work speed"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 269,
     "RemovePrice": 449,
     "BypassLimit": false,
@@ -1004,7 +1004,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Industriousness_-1": {
@@ -1016,8 +1016,8 @@
       "-0.2 Global work speed"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 81,
     "RemovePrice": 674,
     "BypassLimit": false,
@@ -1025,7 +1025,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Industriousness_-2": {
@@ -1037,8 +1037,8 @@
       "-0.35 Global work speed"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 111,
     "RemovePrice": 928,
     "BypassLimit": false,
@@ -1046,7 +1046,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PsychicSensitivity_2": {
@@ -1058,8 +1058,8 @@
       "+0.8 Psychic sensitivity"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 420,
     "RemovePrice": 700,
     "BypassLimit": false,
@@ -1067,7 +1067,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PsychicSensitivity_1": {
@@ -1079,8 +1079,8 @@
       "+0.4 Psychic sensitivity"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 285,
     "RemovePrice": 475,
     "BypassLimit": false,
@@ -1088,7 +1088,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PsychicSensitivity_-1": {
@@ -1100,8 +1100,8 @@
       "-0.5 Psychic sensitivity"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 92,
     "RemovePrice": 768,
     "BypassLimit": false,
@@ -1109,7 +1109,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PsychicSensitivity_-2": {
@@ -1121,8 +1121,8 @@
       "-1 Psychic sensitivity"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 139,
     "RemovePrice": 1162,
     "BypassLimit": false,
@@ -1130,7 +1130,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ShootingAccuracy_1": {
@@ -1143,8 +1143,8 @@
       "+5 Shooting accuracy"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 2163,
     "RemovePrice": 3606,
     "BypassLimit": false,
@@ -1152,7 +1152,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ShootingAccuracy_-1": {
@@ -1165,8 +1165,8 @@
       "-5 Shooting accuracy"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 677,
     "RemovePrice": 5643,
     "BypassLimit": false,
@@ -1174,7 +1174,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Beauty_2": {
@@ -1186,8 +1186,8 @@
       "+2 Beauty"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 389,
     "RemovePrice": 649,
     "BypassLimit": false,
@@ -1195,7 +1195,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Beauty_1": {
@@ -1207,8 +1207,8 @@
       "+1 Beauty"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 269,
     "RemovePrice": 449,
     "BypassLimit": false,
@@ -1216,7 +1216,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Beauty_-1": {
@@ -1228,8 +1228,8 @@
       "-1 Beauty"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 81,
     "RemovePrice": 674,
     "BypassLimit": false,
@@ -1237,7 +1237,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Beauty_-2": {
@@ -1249,8 +1249,8 @@
       "-2 Beauty"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 117,
     "RemovePrice": 974,
     "BypassLimit": false,
@@ -1258,7 +1258,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Immunity_1": {
@@ -1270,8 +1270,8 @@
       "+0.3 Immunity gain speed"
     ],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 239,
     "RemovePrice": 399,
     "BypassLimit": false,
@@ -1279,7 +1279,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Immunity_-1": {
@@ -1289,8 +1289,8 @@
     "Description": "[PAWN_name] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 194,
     "RemovePrice": 324,
     "BypassLimit": false,
@@ -1298,7 +1298,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Delicate_0": {
@@ -1308,8 +1308,8 @@
     "Description": "{PAWN_nameDef} has fragile skin and bones. {PAWN_pronoun} takes more damage than other people from the same blows.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -1317,7 +1317,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Biotech",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Recluse_0": {
@@ -1327,8 +1327,8 @@
     "Description": "The fewer people in {PAWN_nameDef}'s faction, the happier {PAWN_pronoun} is. Being alone is best of all.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
+    "CanAdd": false,
+    "CanRemove": false,
     "AddPrice": 150,
     "RemovePrice": 250,
     "BypassLimit": false,
@@ -1336,7 +1336,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Biotech",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PerfectMemory_0": {
@@ -1355,7 +1355,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Occultist_0": {
@@ -1377,7 +1377,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Joyous_0": {
@@ -1396,7 +1396,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BodyMastery_0": {
@@ -1415,7 +1415,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Disturbing_0": {
@@ -1434,7 +1434,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VoidFascination_0": {
@@ -1453,7 +1453,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   }
 }
