@@ -133,7 +133,7 @@
     "CustomData": ""
   },
   "trait": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -152,8 +152,8 @@
     "CustomData": ""
   },
   "addtrait": {
-    "Enabled": true,
-    "CooldownSeconds": 0,
+    "Enabled": false,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -171,7 +171,7 @@
     "CustomData": ""
   },
   "removetrait": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -190,7 +190,7 @@
     "CustomData": ""
   },
   "replacetrait": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -209,7 +209,7 @@
     "CustomData": ""
   },
   "settraits": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -229,7 +229,7 @@
   },
   "factions": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -248,7 +248,7 @@
   },
   "colonists": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -267,7 +267,7 @@
   },
   "storyteller": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -286,7 +286,7 @@
   },
   "storage": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -304,7 +304,7 @@
     "CustomData": ""
   },
   "shufflechildhood": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -323,7 +323,7 @@
     "CustomData": "{\"childhoodWager\":\"1000\"}"
   },
   "shuffleadulthood": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -342,7 +342,7 @@
     "CustomData": "{\"adulthoodWager\":\"1000\"}"
   },
   "joinraid": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -362,7 +362,7 @@
   },
   "bal": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -381,7 +381,7 @@
   },
   "karmasettings": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 20,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -400,7 +400,7 @@
   },
   "whatiskarma": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -418,7 +418,7 @@
     "CustomData": ""
   },
   "openlootbox": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -457,7 +457,7 @@
   },
   "buy": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 10,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -476,7 +476,7 @@
   },
   "pawn": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -494,7 +494,7 @@
     "CustomData": ""
   },
   "use": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -513,7 +513,7 @@
     "CustomData": "{\"maxUsesPerPeriod\":\"0\"}"
   },
   "equip": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -533,7 +533,7 @@
   },
   "wear": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -551,8 +551,8 @@
     "CustomData": ""
   },
   "backpack": {
-    "Enabled": true,
-    "CooldownSeconds": 0,
+    "Enabled": false,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -571,7 +571,7 @@
   },
   "surgery": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -590,7 +590,7 @@
   },
   "event": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -608,8 +608,8 @@
     "CustomData": ""
   },
   "weather": {
-    "Enabled": true,
-    "CooldownSeconds": 0,
+    "Enabled": false,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -627,7 +627,7 @@
     "CustomData": ""
   },
   "militaryaid": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -646,7 +646,7 @@
     "CustomData": "{\"defaultMilitaryAidWager\":\"300\",\"minMilitaryAidWager\":\"50\",\"maxMilitaryAidWager\":\"1500\"}"
   },
   "raid": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -665,7 +665,7 @@
     "CustomData": "{\"defaultRaidWager\":\"500\",\"minRaidWager\":\"100\",\"maxRaidWager\":\"2500\"}"
   },
   "raidinfo": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -685,7 +685,7 @@
   },
   "purchaselist": {
     "Enabled": true,
-    "CooldownSeconds": 1,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -704,7 +704,7 @@
   },
   "pricecheck": {
     "Enabled": true,
-    "CooldownSeconds": 1,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -722,7 +722,7 @@
     "CustomData": ""
   },
   "help": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 1,
     "Cost": 0,
     "SupportsCost": false,
@@ -742,12 +742,12 @@
   },
   "commands": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
-    "CommandAlias": "cmns",
+    "CommandAlias": "",
     "useCommandCooldown": true,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "all commands",
@@ -760,7 +760,7 @@
     "CustomData": ""
   },
   "lookup": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -780,7 +780,7 @@
   },
   "research": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -799,7 +799,7 @@
   },
   "study": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -836,7 +836,7 @@
     "CustomData": ""
   },
   "modsettings": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -856,7 +856,7 @@
   },
   "wealth": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -875,7 +875,7 @@
   },
   "mypawn": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 20,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -894,7 +894,7 @@
   },
   "leave": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 20,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -913,7 +913,7 @@
   },
   "rescueme": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "subscriber",
@@ -931,7 +931,7 @@
     "CustomData": "{\"leftBehindCost\":\"400\",\"capturedCost\":\"800\"}"
   },
   "revivepawn": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -950,7 +950,7 @@
     "CustomData": "{\"enableSelfRevive\":\"true\",\"enableTargetRevive\":\"true\",\"enableAllRevive\":\"true\",\"reviveCostMultiplier\":\"1.0\"}"
   },
   "healpawn": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -969,7 +969,7 @@
     "CustomData": "{\"enableSelfHeal\":\"true\",\"enableTargetHeal\":\"true\",\"enableAllHeal\":\"true\",\"healCostMultiplier\":\"1.0\"}"
   },
   "dye": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -989,7 +989,7 @@
   },
   "setfavoritecolor": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1007,7 +1007,7 @@
     "CustomData": ""
   },
   "passion": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -1027,7 +1027,7 @@
   },
   "races": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1046,7 +1046,7 @@
   },
   "xenotypes": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1065,7 +1065,7 @@
   },
   "joinqueue": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 10,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1084,7 +1084,7 @@
   },
   "leavequeue": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 20,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1103,7 +1103,7 @@
   },
   "queuestatus": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1121,8 +1121,8 @@
     "CustomData": ""
   },
   "acceptpawn": {
-    "Enabled": true,
-    "CooldownSeconds": 0,
+    "Enabled": false,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1160,7 +1160,7 @@
   },
   "deeptalk": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 10,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1179,7 +1179,7 @@
   },
   "insult": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 20,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1198,7 +1198,7 @@
   },
   "flirt": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1216,7 +1216,7 @@
     "CustomData": "{\"enabled\":\"true\"}"
   },
   "reassure": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -1236,7 +1236,7 @@
   },
   "nuzzle": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1255,7 +1255,7 @@
   },
   "animalchat": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 10,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1270,11 +1270,11 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"enabled\":\"true\"}"
+    "CustomData": "{\"enabled\":\"True\"}"
   },
   "marry": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 20,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1293,7 +1293,7 @@
   },
   "buildrapport": {
     "Enabled": true,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1311,7 +1311,7 @@
     "CustomData": "{\"enabled\":\"true\"}"
   },
   "convert": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -1330,7 +1330,7 @@
     "CustomData": "{\"enabled\":\"true\"}"
   },
   "hello": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -1349,7 +1349,7 @@
     "CustomData": ""
   },
   "captolamia": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
