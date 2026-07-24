@@ -1944,7 +1944,7 @@
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
-    "CooldownDays": 7,
+    "CooldownDays": 1,
     "UsesPerCooldownPeriod": 1,
     "ModSource": "Biotech",
     "modactive": true,
@@ -4194,7 +4194,7 @@
     "IsDiseaseIncident": false,
     "IsQuestIncident": false,
     "BaseChance": 0.04,
-    "EarliestDay": 180,
+    "EarliestDay": 1800,
     "PointsScaleable": false,
     "MinThreatPoints": -3.40282347E+38,
     "MaxThreatPoints": 3.40282347E+38

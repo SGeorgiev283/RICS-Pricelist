@@ -152,7 +152,7 @@
     "CustomData": ""
   },
   "addtrait": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
@@ -438,7 +438,7 @@
   },
   "giftcoins": {
     "Enabled": false,
-    "CooldownSeconds": 0,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -513,8 +513,8 @@
     "CustomData": "{\"maxUsesPerPeriod\":\"0\"}"
   },
   "equip": {
-    "Enabled": false,
-    "CooldownSeconds": 0,
+    "Enabled": true,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -646,27 +646,46 @@
     "CustomData": "{\"defaultMilitaryAidWager\":\"300\",\"minMilitaryAidWager\":\"50\",\"maxMilitaryAidWager\":\"1500\"}"
   },
   "raid": {
-    "Enabled": false,
-    "CooldownSeconds": 0,
+    "Enabled": true,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
     "CommandAlias": "",
-    "useCommandCooldown": false,
-    "MaxUsesPerCooldownPeriod": 0,
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 2,
     "Label": "raid",
     "CommandDescription": "Call a hostile raid on the colony",
-    "AllowedRaidTypes": [],
-    "AllowedRaidStrategies": [],
+    "AllowedRaidTypes": [
+      "drop",
+      "standard",
+      "dropcenter",
+      "dropedge",
+      "dropchaos",
+      "dropgroups",
+      "mech",
+      "mechcluster",
+      "water",
+      "wateredge"
+    ],
+    "AllowedRaidStrategies": [
+      "default",
+      "smart",
+      "sappers",
+      "breach",
+      "breachsmart",
+      "stage",
+      "siege"
+    ],
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"defaultRaidWager\":\"500\",\"minRaidWager\":\"100\",\"maxRaidWager\":\"2500\"}"
+    "CustomData": "{\"defaultRaidWager\":\"150\",\"minRaidWager\":\"100\",\"maxRaidWager\":\"3500\"}"
   },
   "raidinfo": {
-    "Enabled": false,
-    "CooldownSeconds": 0,
+    "Enabled": true,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -760,8 +779,8 @@
     "CustomData": ""
   },
   "lookup": {
-    "Enabled": false,
-    "CooldownSeconds": 0,
+    "Enabled": true,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -1007,8 +1026,8 @@
     "CustomData": ""
   },
   "passion": {
-    "Enabled": false,
-    "CooldownSeconds": 0,
+    "Enabled": true,
+    "CooldownSeconds": 15,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
